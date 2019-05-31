@@ -5,6 +5,8 @@ INJECTED from D:\ReactJS\react-native-login-screen-master\android\app\src\main\A
 INJECTED from D:\ReactJS\react-native-login-screen-master\android\app\src\main\AndroidManifest.xml:1:1-26:12
 INJECTED from D:\ReactJS\react-native-login-screen-master\android\app\src\main\AndroidManifest.xml:1:1-26:12
 MERGED from D:\ReactJS\react-native-login-screen-master\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-vector-icons] D:\ReactJS\react-native-login-screen-master\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] D:\ReactJS\react-native-login-screen-master\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.react:react-native:0.59.8] C:\Users\ptnhu\.gradle\caches\transforms-1\files-1.1\react-native-0.59.8.aar\a1a62dd1b7463c11f37430f1d1be7389\AndroidManifest.xml:2:1-13:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ptnhu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\15dbbb34498b205cd4ec793e1d2116d6\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ptnhu\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\b989aa2ebadddf27fe1762645634c6cc\AndroidManifest.xml:17:1-22:12
@@ -129,6 +131,10 @@ uses-sdk
 INJECTED from D:\ReactJS\react-native-login-screen-master\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\ReactJS\react-native-login-screen-master\android\app\src\main\AndroidManifest.xml
 INJECTED from D:\ReactJS\react-native-login-screen-master\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-vector-icons] D:\ReactJS\react-native-login-screen-master\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] D:\ReactJS\react-native-login-screen-master\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] D:\ReactJS\react-native-login-screen-master\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] D:\ReactJS\react-native-login-screen-master\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.59.8] C:\Users\ptnhu\.gradle\caches\transforms-1\files-1.1\react-native-0.59.8.aar\a1a62dd1b7463c11f37430f1d1be7389\AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.59.8] C:\Users\ptnhu\.gradle\caches\transforms-1\files-1.1\react-native-0.59.8.aar\a1a62dd1b7463c11f37430f1d1be7389\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ptnhu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\15dbbb34498b205cd4ec793e1d2116d6\AndroidManifest.xml:20:5-44

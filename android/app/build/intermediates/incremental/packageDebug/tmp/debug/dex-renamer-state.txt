@@ -1,4 +1,4 @@
-#Thu May 30 11:00:50 ICT 2019
+#Fri May 31 14:45:18 ICT 2019
 base.0=D\:\\ReactJS\\react-native-login-screen-master\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex
